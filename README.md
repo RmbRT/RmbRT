@@ -5,3 +5,5 @@
 I am a great cryptocurrency and decentralisation enthusiast, and I believe in *the right thing* (as opposed to the subversive *worse is better*).
 I currently work at [PolyCrypt GmbH](https://polycry.pt) as a core developer, working on our state channel framework [go-perun](https://github.com/perun-network/go-perun).
 In my free time, I work on [my own programming language](https://github.com/RmbRT-lang), a novel consensus algorithm, as well as biblical essays.
+
+I'm still a virgin, so if you're a biological woman aged below 30, hit me up.
