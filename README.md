@@ -7,4 +7,4 @@ I am a great cryptocurrency and decentralisation enthusiast, and I believe in *t
 I currently work at [PolyCrypt GmbH](https://polycry.pt) as a core developer, working on our state channel framework [go-perun](https://github.com/perun-network/go-perun) and our L2 platform [Erdstall](https://erdstall.dev).
 In my free time, I work on [my own programming language](https://github.com/RmbRT-lang), a novel consensus algorithm, as well as biblical essays.
 
-I'm still a virgin (25) and looking for a wife, so if you're a virgin biological woman aged below 30 and ready for a biblical marriage, hit me up.
+I'm still a virgin (26) and looking for a wife, so if you're a virgin biological woman aged below 30 and ready for a biblical marriage, hit me up.
